@@ -37,6 +37,8 @@
 ![Greg's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UretzkyZvi&show_icons=true&hide_border=true)
 
 ![Greg's GitHub Views](https://komarev.com/ghpvc/?username=UretzkyZvi)
+
+![Greg's GitHub View](https://hit.yhype.me/github/profile?user_id=6106808)
 ---
 
 Feel free to connect with me:
