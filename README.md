@@ -38,7 +38,6 @@
 
 ![Greg's GitHub Views](https://komarev.com/ghpvc/?username=UretzkyZvi)
 
-![](https://hit.yhype.me/github/profile?user_id=6106808)
 ---
 
 Feel free to connect with me:
@@ -47,3 +46,4 @@ Feel free to connect with me:
 ✉️ [Email](mailto:uretsky.zvi@gmail.com)
 
 ---
+![](https://hit.yhype.me/github/profile?user_id=6106808)
