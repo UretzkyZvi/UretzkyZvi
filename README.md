@@ -20,7 +20,7 @@
 - 🏞️ In my free time, I love walking outside and hiking.
 - 💬 Ask me about full-stack development, startup culture, or anything tech-related.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/uretzkyzvi/), [Email](mailto:uretsky.zvi@gmail.com)
-- ⚡ Fun fact: I originally hail from Israel.
+- ⚡ Fun fact: I originally from Israel.
 
 ---
 
